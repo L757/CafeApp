@@ -1,0 +1,5 @@
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Core/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/home/chrx/Projects/FSharp/CafeApp/tests/CafeApp.Core.dll.mdb
+/home/chrx/Projects/FSharp/CafeApp/tests/CafeApp.Core.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Core/obj/Debug/CafeApp.Core.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Core/obj/Debug/CafeApp.Core.dll.mdb
