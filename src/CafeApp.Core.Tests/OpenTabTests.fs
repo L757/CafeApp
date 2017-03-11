@@ -1,0 +1,23 @@
+module OpenTabTests
+open NUnit.Framework
+open CafeAppTestsDSL
+open Events
+open Commands
+open States
+open System
+open Errors
+open Domain
+open TestData
+
+[<Test>]
+let ``Can Open a new Tab``() =
+  Given (ClosedTab None)
+  |> When (OpenTab tab)
+  |> ThenStateShouldBe (OpenedTab tab)
+  |> WithEvents [TabOpened tab]
+
+[<Test>]
+let ``Cannot open an already opened tab`` () =
+  Given (OpenedTab tab)
+  |> When (OpenTab tab)
+  |> ShouldFailWith TabAlreadyOpened
