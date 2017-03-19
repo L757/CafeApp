@@ -1,0 +1,11 @@
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence.InMemory/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence.InMemory/bin/Debug/NEventStore.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence.InMemory/bin/Debug/CafeApp.Persistence.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence.InMemory/bin/Debug/CafeApp.Persistence.dll.mdb
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence.InMemory/bin/Debug/CafeApp.Core.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence.InMemory/bin/Debug/CafeApp.Core.dll.mdb
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence.InMemory/bin/Debug/Chessie.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence.InMemory/bin/Debug/CafeApp.Persistence.InMemory.dll.mdb
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence.InMemory/bin/Debug/CafeApp.Persistence.InMemory.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence.InMemory/obj/Debug/CafeApp.Persistence.InMemory.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence.InMemory/obj/Debug/CafeApp.Persistence.InMemory.dll.mdb

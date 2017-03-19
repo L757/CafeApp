@@ -6,7 +6,6 @@ open Commands
 open States
 open System
 open Errors
-open Domain
 open TestData
 
 [<Test>]

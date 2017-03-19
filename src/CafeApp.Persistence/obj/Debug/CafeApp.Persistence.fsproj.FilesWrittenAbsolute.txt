@@ -1,0 +1,9 @@
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/bin/Debug/CafeApp.Persistence.dll.mdb
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/bin/Debug/CafeApp.Persistence.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/obj/Debug/CafeApp.Persistence.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/obj/Debug/CafeApp.Persistence.dll.mdb
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/bin/Debug/NEventStore.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/bin/Debug/CafeApp.Core.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/bin/Debug/CafeApp.Core.dll.mdb
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/bin/Debug/Chessie.dll

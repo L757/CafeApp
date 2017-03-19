@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Npm.js</id>
+    <version>2.13.1.0</version>
+    <title>Npm.js</title>
+    <authors>Isaacs</authors>
+    <owners>giggio</owners>
+    <licenseUrl>https://raw.github.com/isaacs/npm/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/giggio/npm-nuget</projectUrl>
+    <iconUrl>https://raw.github.com/isaacs/npm/master/html/npm-256-square.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>a package manager for node.
+https://npmjs.org/
+Prefer to use ASP.NET 5 which has native support for NodeJS.</description>
+    <summary />
+    <copyright>Copyright (c) Isaac Z. Schlueter</copyright>
+    <tags>node nodejs npm</tags>
+    <dependencies>
+      <dependency id="Node.js" version="0.12.7" />
+    </dependencies>
+  </metadata>
+</package>

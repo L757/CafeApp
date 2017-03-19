@@ -8,16 +8,10 @@ open Commands
 open Events
 open Errors
 open States
-
-let tab = {Id = Guid.NewGuid(); TableNumber = 1}
-let coke = Drink {
-            MenuNumber = 1
-            Name = "Coke"
-            Price = 1.5m}
-let order = {Tab = tab;Foods = [];Drinks = []}
+open TestData
 
 [<Test>]
-let ``Can place only drinks order`` () =
+let ``Can place drinks order`` () =
   let order = {order with Drinks = [coke]}
   Given (OpenedTab tab)
   |> When (PlaceOrder order)
@@ -43,3 +37,21 @@ let ``Can not place order multiple times`` () =
   Given (PlacedOrder order)
   |> When (PlaceOrder order)
   |> ShouldFailWith OrderAlreadyPlaced
+
+[<Test>]
+let ``Can place food order`` () =
+  let order = {order with Foods = [salad]}
+  Given (OpenedTab tab)
+  |> When (PlaceOrder order)
+  |> ThenStateShouldBe (PlacedOrder order)
+  |> WithEvents [OrderPlaced order]
+
+[<Test>]
+let ``Can place food and drinks order`` () =
+  let order = {order with
+                  Foods = [salad]
+                  Drinks = [coke]}
+  Given (OpenedTab tab)
+  |> When (PlaceOrder order)
+  |> ThenStateShouldBe (PlacedOrder order)
+  |> WithEvents [OrderPlaced order]

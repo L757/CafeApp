@@ -1,6 +1,12 @@
 source https://www.nuget.org/api/v2
 nuget Chessie
 nuget FAKE
+nuget FSharp.Data
 nuget FsUnit
+nuget NEventStore
+nuget Newtonsoft.Json
+nuget Node.js
+nuget Npm.js
 nuget NUnit 2.6.4
 nuget NUnit.Runners 2.6.4
+nuget Suave

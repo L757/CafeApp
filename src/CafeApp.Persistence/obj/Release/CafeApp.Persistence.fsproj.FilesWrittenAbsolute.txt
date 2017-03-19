@@ -1,0 +1,5 @@
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/home/chrx/Projects/FSharp/CafeApp/build/CafeApp.Persistence.dll.mdb
+/home/chrx/Projects/FSharp/CafeApp/build/CafeApp.Persistence.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/obj/Release/CafeApp.Persistence.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Persistence/obj/Release/CafeApp.Persistence.dll.mdb

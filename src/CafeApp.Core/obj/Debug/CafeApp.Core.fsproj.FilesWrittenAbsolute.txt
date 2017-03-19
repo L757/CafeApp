@@ -3,3 +3,7 @@
 /home/chrx/Projects/FSharp/CafeApp/tests/CafeApp.Core.dll
 /home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Core/obj/Debug/CafeApp.Core.dll
 /home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Core/obj/Debug/CafeApp.Core.dll.mdb
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Core/bin/Debug/CafeApp.Core.dll.mdb
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Core/bin/Debug/CafeApp.Core.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Core/bin/Debug/Chessie.dll
+/home/chrx/Projects/FSharp/CafeApp/src/CafeApp.Core/bin/Debug/System.Diagnostics.DiagnosticSource.dll
